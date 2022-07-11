@@ -1,1 +1,2 @@
-constc="dd"
+const c="dd"
+const d='lalala'
